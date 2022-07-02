@@ -1,5 +1,121 @@
-img {
-   width: 400px; 
-   height: 500px;
+.headerLogo {
+font-size: 24px;
+color: #F9FAF8;
+background-color: #1F2937;
+padding: 2%;
+font-family: roboto;
+}
+
+.hero {
+    background-color: #1F2937;
+    padding: 2px;
+    
 
 }
+
+.heroMain {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+    font-family: roboto;
+    position: relative; top: 200px;
+    padding-right: 450px;
+    padding-left: 150px;
+    
+}
+
+.heroMainSecond {
+    font-size: 17px;
+    color: #E5E7EB;
+    font-family: roboto;
+    position: relative; right: 0px; top: 200px;
+    padding: 20px;
+    padding-right: 900px;
+    padding-left: 150px;
+    
+}
+
+a {
+    margin-left: 20px;
+    float: right;
+    
+}
+
+.mushPic {
+     padding-left: 1100px;
+     position: relative; bottom: 130px; right: 50px;
+     width: 500px;
+     height: 700px;
+     
+
+}
+
+.signUpMain {
+    position: relative; bottom: 450px; left: 150px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    width: 90px;
+    height: 40px;
+    font-family: roboto;
+    font-weight: 900;
+    border-radius: 10%;
+    border: #3882F6;
+  
+}
+
+.secondHead {
+    color: #1F2937;
+    font-family: roboto;
+    font-weight: 800px;
+    text-align: center;
+    font-size: 36px;
+}
+
+
+.mush {
+    border: 5px solid #3882F6;
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+    position: relative; left: 80px;
+    border-radius: 10%;
+    
+}
+
+img {
+    width: 400px; 
+    height: 500px;
+    
+}
+
+.flex-container  {
+    height: 200px;
+    width: 1825px;
+    display: flex;
+    font-size: 15px;
+    color: #1F2937;
+    gap: 160px;
+    position: relative; bottom: 90px; right: -20px;
+    
+}
+
+
+.mushOne {
+    position: relative; left: 90px;
+}
+
+.mushTwo {
+    position: relative; right: 100px;
+
+}
+
+.mushThree  {
+   position: relative; left: 30px;
+}
+
+
+
+
+
+
+
