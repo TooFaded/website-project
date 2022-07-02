@@ -1,9 +1,10 @@
-.headerLogo {
-font-size: 24px;
-color: #F9FAF8;
-background-color: #1F2937;
-padding: 2%;
-font-family: roboto;
+ .headerLogo {
+ font-size: 26px;
+ color: #F9FAF8;
+ background-color: #1F2937;
+ padding: 2%;
+ font-family: roboto;
+ font-weight: 900;
 }
 
 .hero {
@@ -105,7 +106,7 @@ img {
 }
 
 .mushTwo {
-    position: relative; right: 100px;
+    position: relative; right: 105px;
 
 }
 
@@ -113,7 +114,66 @@ img {
    position: relative; left: 30px;
 }
 
+.quoteSection {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    padding: 200px;
+    font-weight: 100;
+    font-family: 'roboto';
+    
 
+}
+
+.person {
+    font-style: normal;
+    font-weight: 700;
+    position: relative; left: 1200px;
+}
+
+.callAction {
+background-color: #3882F6;
+color: #F9FAF8;
+text-align: center;
+padding: 10px;
+margin: 3%;
+width: 1200px;
+height: 150px;
+position: relative; left: 300px;
+font-family: 'roboto';
+border-radius: 10px;
+}
+
+.callOne {
+position: relative; right: 335px; top: 20px;
+}
+
+.callTwo {
+position: relative; right: 255px; top: 20px;
+}
+
+.callButton {
+    width: 150px;
+    height: 40px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: solid #F9FAF8 2px;
+    font-weight: 900;
+    font-size: 17px;
+    position: relative; bottom: 45px; left: 400px;
+    border-radius: 10px;
+}
+
+footer {
+    color: #F9FAF8;
+    background-color: #1F2937;
+    height: 200px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'roboto';
+    font-size: 20px;
+}
 
 
 
